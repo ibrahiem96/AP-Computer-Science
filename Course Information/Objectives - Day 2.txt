@@ -1,6 +1,6 @@
 - git hw
 
-- ppt on git
+- ppts for all lessons on git
 
 - intro to objects and classes
 
