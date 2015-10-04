@@ -1,4 +1,4 @@
-- git hw
+ - git hw
 
 - ppts for all lessons on git
 
