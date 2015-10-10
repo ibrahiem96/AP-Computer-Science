@@ -6,7 +6,7 @@ Computer Systems
 
 - How does the code you write get processed to the program?
 
-- compiler/interpreter
+- compiler/interpreter -- NEED TO COVER FURTHER IN DETAIL
 
 - where is all this stored?
 
