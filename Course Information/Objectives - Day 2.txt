@@ -1,0 +1,13 @@
+ - git hw
+
+- ppts for all lessons on git
+
+- intro to objects and classes
+
+- demonstrate code example
+
+- Interaction
+  - identifying
+  - writing own classes and objects
+
+- Assignment
