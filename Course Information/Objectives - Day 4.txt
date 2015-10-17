@@ -1,0 +1,9 @@
+Objectives - Day 4
+
+- Review Initializers, Constants, and Expressions
+- Memory
+- return statements
+- Print statements
+
+---NEXT CLASS
+- BufferedReader(if time)
